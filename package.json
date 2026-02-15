@@ -85,7 +85,7 @@
     "@babel/traverse": "^7.5.5",
     "@intlify/vue-i18n-extensions": "^1.0.1",
     "@intlify/vue-i18n-loader": "^1.0.0",
-    "cookie": "^0.4.0",
+    "cookie": "^0.7.0",
     "is-https": "^3.0.0",
     "js-cookie": "^2.2.1",
     "klona": "^2.0.4",
@@ -94,7 +94,7 @@
   "devDependencies": {
     "@babel/core": "7.13.8",
     "@babel/preset-env": "7.13.8",
-    "@babel/runtime": "7.13.8",
+    "@babel/runtime": "7.28.4",
     "@nuxt/types": "2.15.2",
     "@nuxtjs/eslint-config-typescript": "5.0.0",
     "@nuxtjs/module-test-utils": "1.6.3",
@@ -117,10 +117,10 @@
     "jest-dev-server": "4.4.0",
     "jsdom": "16.4.0",
     "messageformat": "2.3.0",
-    "nuxt": "2.15.2",
+    "nuxt": "3.16.0",
     "playwright-chromium": "1.9.1",
     "release-it": "14.4.1",
-    "serve-static": "1.14.1",
+    "serve-static": "1.16.0",
     "typescript": "4.2.2"
   }
 }
